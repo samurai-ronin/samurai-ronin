@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔴 C# (DotNet), PHP (Laravel), Javascript (Vue/Node)...<br>
-🟠 I’m currently working on DotNet <br>
+🟠 I’m currently working on .Net and laravel <br>
 🟡 I’m currently learning Elixir,Node & Vue<br>
 🟢 Ask me about code, basketball and games<br>
 
